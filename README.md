@@ -1,8 +1,20 @@
 # FLIGHT EXPLORER - R
 
-Flight safety is often an important issue. Airlines are financially affected by plane malfunctions, since travelers often will pick an airline based on its record of safety, and a particularly bad incident will leave a bad reputation, regardless of improvements. In addition, various agencies would like to collect data about air safety, in order to discover any trends or patterns involved with air accidents.
-
 Flight Explorer is a dashboard that visualizes airline flight data with regards to flight incidents at different airlines, and displays them by airlines, incident numbers, as well as other factors such as first-world status of originating airlines, and lethality of air incidents.
+
+# Versions
+
+This repo is for the R version of this project.
+
+This deployed R dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+
+This project was also done in Python, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_R
+
+This deployed Python dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+
+# Introduction
+
+Flight safety is often an important issue. Airlines are financially affected by plane malfunctions, since travelers often will pick an airline based on its record of safety, and a particularly bad incident will leave a bad reputation, regardless of improvements. In addition, various agencies would like to collect data about air safety, in order to discover any trends or patterns involved with air accidents.
 
 ## Chart 1 using ggplot
 
