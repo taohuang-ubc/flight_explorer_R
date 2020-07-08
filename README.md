@@ -6,9 +6,9 @@ Flight Explorer is a dashboard that visualizes airline flight data with regards 
 
 This repo is for the R version of this project.
 
-This deployed R dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+This deployed R dashboard on Heroku: https://group-111-flight-explorer-r.herokuapp.com/
 
-This project was also done in Python, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_R
+This project was also done in Python, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_python/blob/master/README.md
 
 This deployed Python dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
 
